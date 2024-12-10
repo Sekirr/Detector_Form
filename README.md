@@ -1,7 +1,7 @@
 ## Установка
 
 1. Клонируйте репозиторий:
-git clone <repository-url>
+git clone https://github.com/Sekirr/Detector_Form
 cd detector_form
 
 
